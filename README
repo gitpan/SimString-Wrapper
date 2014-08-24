@@ -17,7 +17,7 @@
       -h, --help            show this help message and exit
 
 NAME
-    SimString::Wrapper - Blah blah blah
+    SimString::Wrapper - Interface to SimString
 
 SYNOPSIS
       use SimString::Wrapper;

@@ -1,5 +1,5 @@
 ---
-abstract: 'Blah blah blah'
+abstract: 'Interface to SimString'
 author:
   - 'Helmut Wollmersdorfer <helmut.wollmersdorfer@gmail.com>'
 build_requires:
@@ -27,6 +27,6 @@ resources:
   bugtracker: https://github.com/wollmers/SimString-Wrapper/issues
   homepage: https://github.com/wollmers/SimString-Wrapper
   repository: https://github.com/wollmers/SimString-Wrapper.git
-version: '0.01'
+version: '0.02'
 x_contributors:
   - 'Helmut Wollmersdorfer <helmut@wollmersdorfer.at>'
